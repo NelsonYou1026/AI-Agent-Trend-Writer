@@ -1,0 +1,17 @@
+streamlit
+pyautogen
+# pytrends is no longer used
+# pytrends
+newsapi-python
+langchain
+langgraph
+langchain-openai
+python-dotenv
+streamlit-extras
+openai
+anthropic
+tavily-python
+serpapi
+pandas
+requests
+beautifulsoup4
