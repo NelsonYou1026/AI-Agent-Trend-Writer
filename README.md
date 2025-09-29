@@ -117,7 +117,7 @@ Agent 提示詞配置：
 - `web_scraper_tools.py` - 網頁爬蟲工具
 - `content_formatter.py` - 內容格式化工具
 
-## 🔧 進階配置
+## 進階配置
 
 ### 自定義 LLM 配置
 修改 `agents/langgraph_workflow.py` 中的 `get_llm()` 函數：
